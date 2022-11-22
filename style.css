@@ -90,7 +90,7 @@ body {
 
 .fa-window-maximize, .fa-calculator, .fa-phone, .fa-envelope, .fa-location-dot {
     color: #333;
-    font-size: 35px;
+    font-size: 20px;
     left: 10px;
     position: absolute;
 }
@@ -98,7 +98,7 @@ body {
 
 .custom-icon-wa, .fa-telegram, .custom-icon-vk, .custom-icon-inst, .custom-icon-ozon, .custom-icon-wb {
     color: #333 ;
-    font-size: 30px;
+    font-size: 40px;
     left: 10px;
     fill: #333;
 }
