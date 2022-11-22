@@ -79,7 +79,7 @@ body {
 }
 
 .button__block.style-2 {
-    width: 50%;
+    /* width: 50%; */
     display: flex;
     flex-direction: column;
     padding: 25px 25px; 
@@ -111,6 +111,7 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    justify-content: center;
 }
 
 @media (max-width: 768px) {
